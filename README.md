@@ -1,3 +1,3 @@
-# 👋
+👋
 
 [//]: # (i like polar bears)
