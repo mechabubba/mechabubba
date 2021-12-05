@@ -4,6 +4,10 @@
 • <a href="https://github.com/funczone/func_mapvote/">funczone/func_mapvote</a>: Highly configurable Garry's Mod map voting addon.
 • <a href="https://github.com/mechabubba/bomo/">mechabubba/bomo</a>: Work-in-progress Uno clone made entirely in typescript.
 • <a href="https://github.com/mechabubba/NoStorePls/">mechabubba/NoStorePls</a>: Minecraft Java Edition plugin that prevents storage of certain items in certain containers.
+
+<b>💾 Contacts,</b> if you need 'em for some reason.
+• Discord: @steven#6969 (preferred)
+• Steam:   STEAM_1:1:48971987
 </pre>
 
-[//]: # (i like polar bears)
+[//]: # (i like polar bears :D)
