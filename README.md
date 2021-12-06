@@ -7,7 +7,7 @@
 
 <b>💾 Contacts,</b> if you need 'em for some reason.
 • Discord: @steven#6969 (preferred)
-• Steam:   [STEAM_1:1:48971987](https://steamcommunity.com/profiles/76561198058209703)
+• Steam:   <a href="https://steamcommunity.com/profiles/76561198058209703">STEAM_1:1:48971987</a>
 </pre>
 
 [//]: # (i like polar bears :D)
