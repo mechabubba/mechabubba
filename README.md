@@ -6,7 +6,7 @@
 • <a href="https://github.com/mechabubba/NoStorePls/">mechabubba/NoStorePls</a>: Minecraft Java Edition plugin that prevents storage of certain items in certain containers.
 
 <b>💾 Contacts,</b> if you need 'em for some reason.
-• Discord: @steven#6969 (preferred. shoot me a message so I know you aren't a bot)
+• Discord: @steven#6969 (preferred. shoot me a message so I know you aren't just a bot)
 • Steam:   <a href="https://steamcommunity.com/profiles/76561198058209703">STEAM_1:1:48971987</a>
 </pre>
 
